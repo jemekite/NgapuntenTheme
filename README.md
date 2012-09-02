@@ -22,6 +22,6 @@ Licence:
 <strong>Hadie Danker</strong>
 <br/>
 Twitter: <a href="http://twitter.com/hadie87" title="follow me">@hadie87</a>
-Youtube: <a href="" title="subscribe to my channel">Dankerizer</a>
+Youtube: <a href="http://youtube.com/dankerizer" title="subscribe to my channel">Dankerizer</a>
 
 
